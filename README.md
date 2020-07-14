@@ -7,7 +7,7 @@ INSTRUCTIONS FOR INSTALLING
 1.	Download and install  NetBeans (Version 8.1 onwards) and MySql
 2.	Set the MySql password to : 1234
 3.	Create database ‘12thbproject’.
-4.	Create a MySql table as shown below.
+4.	Create a MySql table as shown in untitled.jpg 
 5.	Now copy and paste the folder called ‘memorygame’ onto the C drive of the computer.
 6.	Open Netbeans, and the select the option of opening a project. Browse and look for ‘projectsample’. Open the frame called ‘main’.
 7.	Press shift+F6 to start the game.
